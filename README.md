@@ -55,7 +55,7 @@ CUDA_VISIBLE_DEVICES=0 python demo.py --cfg exp_prw/config.yaml --ckpt exp_prw/e
 
 ![demo.jpg](./demo_imgs/demo.jpg)
 
-![fig1.pdf](./doc/fig1.pdf)
+![fig1.png](./doc/fig1.png)
 
 ## Training
 
