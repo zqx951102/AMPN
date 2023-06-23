@@ -90,10 +90,10 @@ Pull request is welcomed! Before submitting a PR, **DO NOT** forget to run `./de
 ## Citation
 
 ```
-@inproceedings{li2021sequential,
-  title={Sequential End-to-end Network for Efficient Person Search},
-  author={Li, Zhengjia and Miao, Duoqian},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={3},
-  pages={2011--2019},
+@inproceedings{zhang2023AMPN,
+  title={Attentive Multi-granularity Perception Network for Person Search},
+  author={Zhang, Qixian and Miao, Duoqian},
+  booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={xx},
+  number={x},
+  pages={xxx--xxx},
