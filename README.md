@@ -53,9 +53,7 @@ CUDA_VISIBLE_DEVICES=0 python demo.py --cfg exp_cuhk/config.yaml --ckpt exp_cuhk
 CUDA_VISIBLE_DEVICES=0 python demo.py --cfg exp_prw/config.yaml --ckpt exp_prw/epoch_11-52.39-88.19.pth     #PRW
 ```
 
-![demo.jpg](./demo_imgs/demo.jpg)
-
-![fig1.pdf](./doc/fig1.pdf)
+![fig1.png](./doc/fig1.png)
 
 ## Training
 
