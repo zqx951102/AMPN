@@ -16,13 +16,13 @@ Performance profile:
 
 | Dataset   | mAP  | Top-1 | AMPN                                                        |
 | --------- | ---- | ----- | ------------------------------------------------------------ |
-| CUHK-SYSU | 95.2 | 95.9  | [model](https://drive.google.com/file/d/1wKhCHy7uTHx8zxNS62Y1236GNv5TzFzq/view?usp=sharing) |
-| PRW       | 52.4 | 88.2  | [model](https://drive.google.com/file/d/1I9OI6-sfVyop_aLDIWaYwd7Z4hD34hwZ/view?usp=sharing) |
+| CUHK-SYSU | 95.2 | 95.9  | [model](https://drive.google.com/file/d/13bLsi0LQeBLzRzWWBgOvenqVfKFDkAgl/view?usp=sharing) |
+| PRW       | 52.4 | 88.2  | [model](https://drive.google.com/file/d/1k8tACTd7_3ATylGjaEEAMISj-smiPBLL/view?usp=sharing) |
 
 | Dataset   | mAP  | Top-1 | AMPN+                                                        |
 | --------- | ---- | ----- | ------------------------------------------------------------ |
-| CUHK-SYSU | 95.8 | 96.1  | [model](https://drive.google.com/file/d/1wKhCHy7uTHx8zxNS62Y1236GNv5TzFzq/view?usp=sharing) |
-| PRW       | 53.6 | 88.2  | [model](https://drive.google.com/file/d/1I9OI6-sfVyop_aLDIWaYwd7Z4hD34hwZ/view?usp=sharing) |
+| CUHK-SYSU | 95.8 | 96.1  | [model](https://drive.google.com/file/d/11Z67ZbOnx972fVByU2MnIT5iu7vUL1eD/view?usp=sharing) |
+| PRW       | 53.6 | 88.2  | [model](https://drive.google.com/file/d/1Zkqfh3yWMqOAK2dIOYyPNtYNl23Hi9YN/view?usp=sharing) |
 
 
 The network structure is simple and suitable as baseline:
