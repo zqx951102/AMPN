@@ -173,7 +173,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py --cfg exp_cuhk/config.yaml --eval --ckpt 
 Remember that when you test other code, you still need to set it to 100！！
 
 ## Performance on the Occluded and Low-Resolution gallery:
-only on CUHK-SYSU dataset, In data/CUHK-SYSU/annotation/test/train_test/  first of all, the original TestG100.mat was renamed to 0TestG100.Mat. Upload Occluded.mat and Low-Resolution.mat to ./data/CUHK-SYSU/annotation/test/train_test/
+only on CUHK-SYSU dataset, In data/CUHK-SYSU/annotation/test/train_test/  first of all, the original TestG100.mat was renamed to 0TestG100.Mat. Upload [Occluded.mat](https://drive.google.com/file/d/1Vhg3atKdRJM0s-6e34WYdswc5748s8y6/view?usp=sharing) and [Low-Resolution.mat](https://drive.google.com/file/d/1bA3bgplRHc790KdBhXpvLueXr8xCnyxC/view?usp=sharing) to ./data/CUHK-SYSU/annotation/test/train_test/
 
 In eval_func.py set gallery_size=100, don't change.
 
