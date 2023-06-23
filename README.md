@@ -171,7 +171,7 @@ then run:
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py --cfg exp_cuhk/config.yaml --eval --ckpt exp_cuhk/epoch_12-95.24-95.9.pth   ##you can get :[95.76, 95.24, 92.42, 90.43, 88.36, 85.90]
 ```
-<img src="./doc/gallery-size.png" />
+<img src="./doc/gallery-size.jpg" />
 Remember that when you test other code, you still need to set it to 100！！
 
 ## Performance on the Occluded and Low-Resolution gallery:
@@ -194,7 +194,7 @@ then Change the Low-Resolution.mat name to TestG100.mat, run:
 CUDA_VISIBLE_DEVICES=0 python train.py --cfg exp_cuhk/config.yaml --eval --ckpt exp_cuhk/epoch_12-95.24-95.9.pth   # 85.79-86.24
 ```
 ## Qualitative Results:
-<img src="./doc/Qualitative-Results.png" />
+<img src="./doc/Qualitative-Results.jpg" />
 
 
 ## Acknowledgment
