@@ -193,9 +193,7 @@ then Change the Low-Resolution.mat name to TestG100.mat, run:
 CUDA_VISIBLE_DEVICES=0 python train.py --cfg exp_cuhk/config.yaml --eval --ckpt exp_cuhk/epoch_12-95.24-95.9.pth   # 85.79-86.24
 ```
 ## Qualitative Results:
-![Qualitative-Results.png](./doc/Qualitative-Results.png)
-
-
+<img src="./doc/Qualitative-Results.png" />
 ## Acknowledgment
 Thanks to the authors of the following repos for their code, which was integral in this project:
 - [SeqNet](https://github.com/serend1p1ty/SeqNet)
