@@ -192,6 +192,16 @@ then Change the Low-Resolution-TestG100.mat name to TestG100.mat,run:
 CUDA_VISIBLE_DEVICES=0 python train.py --cfg exp_cuhk/config.yaml --eval --ckpt exp_cuhk/epoch_12-95.24-95.9.pth   # 85.79-86.24
 ```
 
+## Acknowledgment
+Thanks to the authors of the following repos for their code, which was integral in this project:
+- [SeqNet](https://github.com/serend1p1ty/SeqNet)
+- [NAE](https://github.com/dichen-cd/NAE4PS)
+- [COAT](https://github.com/Kitware/COAT)
+- [GFN](https://github.com/LukeJaffe/GFN)
+- [torchvision](https://github.com/pytorch/vision)
+- [GLCNet](https://github.com/ZhengPeng7/GLCNet)
+
+
 
 ## Pull Request
 
