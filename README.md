@@ -1,11 +1,11 @@
-# AMPN
-This repository hosts the source code of our paper: Attentive Multi-granularity Perception Network for Person Search.
-
-We have submitted this paper to: IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY
 
 <div align="center">
 <img src="doc/title.jpg" width="300" height="100" alt="图片名称"/>
 </div>
+This repository hosts the source code of our paper: Attentive Multi-granularity Perception Network for Person Search.
+
+We have submitted this paper to: IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY
+
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sequential-end-to-end-network-for-efficient/person-search-on-prw)](https://paperswithcode.com/sota/person-search-on-prw?p=sequential-end-to-end-network-for-efficient)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sequential-end-to-end-network-for-efficient/person-search-on-cuhk-sysu)](https://paperswithcode.com/sota/person-search-on-cuhk-sysu?p=sequential-end-to-end-network-for-efficient)
