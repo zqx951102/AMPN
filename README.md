@@ -148,7 +148,7 @@ Remember that when you test other code, you still have to set it to true！！
 
 
 
-## With different gallery sizes:
+## Evaluation of different gallery size:
 AMPN only on CUHK-SYSU dataset, in eval_func.py set gallery_size=100, or 50,100,500,1000,2000,4000.
 ```
 def eval_search_cuhk(
@@ -172,8 +172,8 @@ CUDA_VISIBLE_DEVICES=0 python train.py --cfg exp_cuhk/config.yaml --eval --ckpt 
 ```
 Remember that when you test other code, you still need to set it to 100！！
 
-## Occluded and Low-Resolution only on CUHK-SYSU dataset:
-In data/CUHK-SYSU/annotation/test/train_test/   first of all, the original TestG100.mat was renamed to 0TestG100.Mat. Upload Occluded-TestG100.mat and Low-Resolution-TestG100.mat to ./data/CUHK-SYSU/annotation/test/train_test/
+## Performance on the Occluded and Low-Resolution gallery:
+only on CUHK-SYSU dataset, In data/CUHK-SYSU/annotation/test/train_test/  first of all, the original TestG100.mat was renamed to 0TestG100.Mat. Upload Occluded.mat and Low-Resolution.mat to ./data/CUHK-SYSU/annotation/test/train_test/
 
 In eval_func.py set gallery_size=100, don't change.
 
@@ -183,11 +183,11 @@ assert (
             query_roi - qboxes[0][:4]
          ).sum() <= 0.001, "query_roi must be the first one in pboxes"
 ```
-then Change the Occluded-TestG100.mat name to TestG100.mat,run:
+then Change the Occluded.mat name to TestG100.mat, run:
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py --cfg exp_cuhk/config.yaml --eval --ckpt exp_cuhk/epoch_12-95.24-95.9.pth   # 89.09-89.69
 ```
-then Change the Low-Resolution-TestG100.mat name to TestG100.mat,run:
+then Change the Low-Resolution.mat name to TestG100.mat, run:
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py --cfg exp_cuhk/config.yaml --eval --ckpt exp_cuhk/epoch_12-95.24-95.9.pth   # 85.79-86.24
 ```
