@@ -3,9 +3,14 @@
 <img src="doc/title.jpg" width="300" height="100" alt="图片名称"/>
 </div>
 
-This repository hosts the source code of our paper: [Attentive Multi-granularity Perception Network for Person Search](https://arxiv.org/abs/2103.10148). AMPN achieves **state-of-the-art** performance on CUHK-SYSU. Especially on PRW, it achieves a 4.8$\%$ mAP gain at a comparable speed to SeqNet. 
-
+This repository hosts the source code of our paper: [Attentive Multi-granularity Perception Network for Person Search](https://arxiv.org/abs/2103.10148). 
 We have submitted this paper to: IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY
+
+In this paper, we introduce a novel Attentive Multi-granularity Perception (AMP) module embedded in both the detection and ReID branches. This module leverages discriminative relationship features among different local regions within the person's region of interest (ROI) to address the interference caused by appearance variations and occlusions.
+
+AMPN achieves **state-of-the-art** performance on CUHK-SYSU. Especially on PRW, it achieves a 4.8% mAP gain at a comparable speed to SeqNet. 
+
+
 
 Performance profile:
 
