@@ -14,10 +14,16 @@ AMPN achieves **state-of-the-art** performance on CUHK-SYSU. Especially on PRW, 
 
 Performance profile:
 
-| Dataset   | mAP  | Top-1 | Model                                                        |
+| Dataset   | mAP  | Top-1 | AMPN                                                        |
 | --------- | ---- | ----- | ------------------------------------------------------------ |
-| CUHK-SYSU | 94.8 | 95.7  | [model](https://drive.google.com/file/d/1wKhCHy7uTHx8zxNS62Y1236GNv5TzFzq/view?usp=sharing) |
-| PRW       | 47.6 | 87.6  | [model](https://drive.google.com/file/d/1I9OI6-sfVyop_aLDIWaYwd7Z4hD34hwZ/view?usp=sharing) |
+| CUHK-SYSU | 95.2 | 95.9  | [model](https://drive.google.com/file/d/13bLsi0LQeBLzRzWWBgOvenqVfKFDkAgl/view?usp=sharing) |
+| PRW       | 52.4 | 88.2  | [model](https://drive.google.com/file/d/1k8tACTd7_3ATylGjaEEAMISj-smiPBLL/view?usp=sharing) |
+
+| Dataset   | mAP  | Top-1 | AMPN+                                                        |
+| --------- | ---- | ----- | ------------------------------------------------------------ |
+| CUHK-SYSU | 95.8 | 96.1  | [model](https://drive.google.com/file/d/11Z67ZbOnx972fVByU2MnIT5iu7vUL1eD/view?usp=sharing) |
+| PRW       | 53.6 | 88.2  | [model](https://drive.google.com/file/d/1Zkqfh3yWMqOAK2dIOYyPNtYNl23Hi9YN/view?usp=sharing) |
+
 
 The network structure is simple and suitable as baseline:
 
@@ -87,6 +93,8 @@ python train.py --cfg $ROOT/exp_cuhk/config.yaml --eval --ckpt $ROOT/exp_cuhk/ep
 
 Pull request is welcomed! Before submitting a PR, **DO NOT** forget to run `./dev/linter.sh` that provides syntax checking and code style optimation.
 
+## Project Structure
+![project structure.jpg](./data/project structure.jpg)
 ## Citation
 
 ```
