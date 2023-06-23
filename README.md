@@ -94,7 +94,7 @@ python train.py --cfg $ROOT/exp_cuhk/config.yaml --eval --ckpt $ROOT/exp_cuhk/ep
 Pull request is welcomed! Before submitting a PR, **DO NOT** forget to run `./dev/linter.sh` that provides syntax checking and code style optimation.
 
 ## Project Structure
-![project-structure.jpg](./data/project-structure.jpg)
+![project-structure.png](./data/project-structure.png)
 ## Citation
 
 ```
