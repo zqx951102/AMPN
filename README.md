@@ -3,7 +3,7 @@
 <img src="doc/title.jpg" width="300" height="100" alt="图片名称"/>
 </div>
 
-This repository hosts the source code of our paper: [Attentive Multi-granularity Perception Network for Person Search](https://arxiv.org/abs/2103.10148). AMPN achieves the **state-of-the-art** performance on two widely used benchmarks and runs at **11.5 FPS** on a single GPU. 
+This repository hosts the source code of our paper: [Attentive Multi-granularity Perception Network for Person Search](https://arxiv.org/abs/2103.10148). AMPN achieves **state-of-the-art** performance on CUHK-SYSU. Especially on PRW, it achieves a 4.8$\%$ mAP gain at a comparable speed to SeqNet. 
 
 We have submitted this paper to: IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY
 
