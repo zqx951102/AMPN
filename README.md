@@ -55,6 +55,7 @@ CUDA_VISIBLE_DEVICES=0 python demo.py --cfg exp_prw/config.yaml --ckpt exp_prw/e
 
 ![demo.jpg](./demo_imgs/demo.jpg)
 
+
 ## Training
 
 Pick one configuration file you like in `$ROOT/configs`, and run with it.
@@ -194,6 +195,8 @@ CUDA_VISIBLE_DEVICES=0 python train.py --cfg exp_cuhk/config.yaml --eval --ckpt 
 ```
 ## Qualitative Results:
 <img src="./doc/Qualitative-Results.png" />
+
+
 ## Acknowledgment
 Thanks to the authors of the following repos for their code, which was integral in this project:
 - [SeqNet](https://github.com/serend1p1ty/SeqNet)
