@@ -1,4 +1,5 @@
-
+![Python >=3.5](https://img.shields.io/badge/Python->=3.5-yellow.svg)
+![PyTorch >=1.0](https://img.shields.io/badge/PyTorch->=1.6-blue.svg)
 <div align="center">
 <img src="doc/title.jpg" width="300" height="100" alt="图片名称"/>
 </div>
@@ -39,11 +40,21 @@ Run `pip install -r requirements.txt` in the root directory of the project.
 Let's say `$ROOT` is the root directory.
 
 1. Download [CUHK-SYSU](https://drive.google.com/open?id=1z3LsFrJTUeEX3-XjSEJMOBrslxD2T5af) and [PRW](https://drive.google.com/file/d/1Pz81MP8ePlNZMLm_P-AIkUERyOAXWOTV/view?usp=sharing) datasets, and unzip them to `$ROOT/data`
+
 ```
-$ROOT/data
+data
 ├── CUHK-SYSU
-└── PRW
+├── PRW
+exp_cuhk
+├── config.yaml
+├── epoch_12-95.24-95.9.pth
+├── epoch_20-95.78-96.07.pth
+exp_prw
+├── config.yaml
+├── epoch_11-52.39-88.19.pth 
+├── epoch_13-53.58-88.14.pth
 ```
+
 2. Following the link in the above table, download our pretrained model to anywhere you like, e.g., `$ROOT/exp_cuhk`
 3. Run an inference demo by specifing the paths of checkpoint and corresponding configuration file.  You can checkout the result in `demo_imgs` directory.
 
