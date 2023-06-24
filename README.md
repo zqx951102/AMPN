@@ -221,7 +221,7 @@ Pull request is welcomed! Before submitting a PR, **DO NOT** forget to run `./de
 
 
 ## Citation
-
+If you find this code useful for your research, please cite our paper
 ```
 @inproceedings{zhang2023AMPN,
   title={Attentive Multi-granularity Perception Network for Person Search},
@@ -230,3 +230,18 @@ Pull request is welcomed! Before submitting a PR, **DO NOT** forget to run `./de
   volume={xx},
   number={x},
   pages={xxx--xxx},
+```
+```
+@inproceedings{li2021sequential,
+  title={Sequential End-to-end Network for Efficient Person Search},
+  author={Li, Zhengjia and Miao, Duoqian},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={3},
+  pages={2011--2019},
+  year={2021}
+}
+```
+
+## Contact
+If you have any question, please feel free to contact us. E-mail: [zhangqx@tongji.edu.cn](mailto:zhangqx@tongji.edu.cn) 
