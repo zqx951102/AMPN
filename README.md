@@ -76,7 +76,6 @@ python train.py --cfg configs/cuhk_sysu.yaml
 
 **Note**: At present, our script only supports single GPU training, but distributed training will be also supported in future. By default, the batch size and the learning rate during training are set to 3 and 0.003 respectively, which requires about 28GB of GPU memory. If your GPU cannot provide the required memory, try smaller batch size and learning rate (*performance may degrade*). Specifically, your setting should follow the [*Linear Scaling Rule*](https://arxiv.org/abs/1706.02677): When the minibatch size is multiplied by k, multiply the learning rate by k. For example:
 
-detailed representation：
 ```
 CUHK:
 CUDA_VISIBLE_DEVICES=0 python train.py --cfg configs/cuhk_sysu.yaml INPUT.BATCH_SIZE_TRAIN 3 SOLVER.BASE_LR 0.003
@@ -111,7 +110,6 @@ Test the upper bound of the person search performance by using GT boxes:
 ```
 python train.py --cfg $ROOT/exp_cuhk/config.yaml --eval --ckpt $ROOT/exp_cuhk/epoch_19.pth EVAL_USE_GT True
 ```
-detailed representation：
 ```
 Computational complexity:       404.27 GMac
 Number of parameters:           50.88 M
