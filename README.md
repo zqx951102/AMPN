@@ -5,6 +5,12 @@
 ## ↳ Forkers
 [![Forkers repo roster for @zqx951102/AMPN](https://reporoster.com/forks/zqx951102/AMPN)](https://github.com/zqx951102/AMPN/network/members)
 
+## 贡献者
+
+<a href="https://github.com/eryajf/learn-github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
+</a>
+
 ![Python >=3.5](https://img.shields.io/badge/Python->=3.5-yellow.svg)
 ![PyTorch >=1.0](https://img.shields.io/badge/PyTorch->=1.6-blue.svg)
 <div align="center">
