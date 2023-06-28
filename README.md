@@ -5,8 +5,7 @@
 ## ↳ Forkers
 [![Forkers repo roster for @zqx951102/AMPN](https://reporoster.com/forks/zqx951102/AMPN)](https://github.com/zqx951102/AMPN/network/members)
 
-## 贡献者
-
+## ↳ Contributors
 <a href="https://github.com/eryajf/learn-github/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
 </a>
