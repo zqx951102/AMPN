@@ -218,10 +218,9 @@ Thanks to the authors of the following repos for their code, which was integral 
 - [NAE](https://github.com/dichen-cd/NAE4PS)
 - [COAT](https://github.com/Kitware/COAT)
 - [GFN](https://github.com/LukeJaffe/GFN)
-- [torchvision](https://github.com/pytorch/vision)
+- [PSTR](https://github.com/JialeCao001/PSTR)
 - [GLCNet](https://github.com/ZhengPeng7/GLCNet)
-
-
+- [torchvision](https://github.com/pytorch/vision)
 
 ## Pull Request
 
