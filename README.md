@@ -40,6 +40,15 @@ The network structure is simple and suitable as baseline:
 
 ![SeqNet](doc/net_arch.jpg)
 
+
+****
+## :fire: NEWS :fire:
+
+- [08/2023] **📣We xxxxx !**
+
+- [07/2023] **📣The Attentive Multi-granularity Perception Network for Person Search is released !**
+  
+
 ## Installation
 
 Run `pip install -r requirements.txt` in the root directory of the project.
