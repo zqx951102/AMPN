@@ -9,7 +9,6 @@
 ![Python >=3.5](https://img.shields.io/badge/Python->=3.5-yellow.svg)
 ![PyTorch >=1.0](https://img.shields.io/badge/PyTorch->=1.6-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/DMF.svg?style=flat&label=Star)
 
 <div align="center">
 <img src="doc/title.jpg" width="300" height="100" alt="图片名称"/>
