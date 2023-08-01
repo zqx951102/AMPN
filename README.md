@@ -43,7 +43,7 @@ The network structure is simple and suitable as baseline:
 ****
 ## :fire: NEWS :fire:
 
-- [08/2023] **📣We xxxxx !**
+- [08/2023] **📣We submitted our paper to TCSVT !**
 
 - [07/2023] **📣The Attentive Multi-granularity Perception Network for Person Search is released !**
  
