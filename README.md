@@ -1,6 +1,5 @@
 ## ↳ Stargazers
 [![Stargazers repo roster for @zqx951102/AMPN](https://reporoster.com/stars/zqx951102/AMPN)](https://github.com/zqx951102/AMPN/stargazers)
-
 ## ↳ Forkers
 [![Forkers repo roster for @zqx951102/AMPN](https://reporoster.com/forks/zqx951102/AMPN)](https://github.com/zqx951102/AMPN/network/members)
 
