@@ -42,7 +42,8 @@ The network structure is simple and suitable as baseline:
 
 ****
 ## :fire: NEWS :fire:
-
+- [09/2023] **📣Unfortunately, our paper has been rejected by TCSVT. We would like to express our gratitude to the editors and reviewers for taking the time to review our paper and provide feedback. We highly appreciate the insightful and valuable comments and suggestions from the four reviewers. We will further revise our paper. Keep fighting!**
+  
 - [08/2023] **📣We submitted our paper to TCSVT !**
 
 - [07/2023] **📣The Attentive Multi-granularity Perception Network for Person Search is released !**
@@ -243,7 +244,7 @@ If you find this code useful for your research, please cite our paper
 @inproceedings{zhang2023AMPN,
   title={Attentive Multi-granularity Perception Network for Person Search},
   author={Zhang, Qixian and Miao, Duoqian},
-  booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+  booktitle={IEEE Transactions on xxxxxx},
   volume={xx},
   number={x},
   pages={xxx--xxx},
