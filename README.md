@@ -42,6 +42,10 @@ The network structure is simple and suitable as baseline:
 
 ****
 ## :fire: NEWS :fire:
+- [04/2024] **📣We received comments requiring major revisions from the Journal of Information Sciences.**
+
+- [10/2023] **📣We submitted our paper to the Journal of Information Sciences.**
+    
 - [09/2023] **📣Unfortunately, our paper has been rejected by TCSVT. We would like to express our gratitude to the editors and reviewers for taking the time to review our paper and provide feedback. We highly appreciate the insightful and valuable comments and suggestions from the four reviewers. We will further revise our paper. Keep fighting!**
   
 - [08/2023] **📣We submitted our paper to TCSVT !**
