@@ -42,6 +42,9 @@ The network structure is simple and suitable as baseline:
 
 ****
 ## :fire: NEWS :fire:
+
+- [06/2024] **📣We received comments requiring minor revisions from the Journal of Information Sciences.**
+- 
 - [04/2024] **📣We received comments requiring major revisions from the Journal of Information Sciences.**
 
 - [10/2023] **📣We submitted our paper to the Journal of Information Sciences.**
