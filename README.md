@@ -251,8 +251,8 @@ If you find this code useful for your research, please cite our paper
 ```
 @inproceedings{zhang2023AMPN,
   title={Attentive Multi-granularity Perception Network for Person Search},
-  author={Zhang, Qixian and Miao, Duoqian},
-  booktitle={IEEE Transactions on xxxxxx},
+  author={Qixian Zhang, Jun Wu, Duoqian Miao, Cairong Zhao and Qi Zhang},
+  booktitle={Information Sciences},
   volume={xx},
   number={x},
   pages={xxx--xxx},
