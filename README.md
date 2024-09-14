@@ -259,6 +259,18 @@ If you find this code useful for your research, please cite our paper
   publisher={Elsevier}
 }
 ```
+
+```
+@article{zhang2024learning,
+  title={Learning adaptive shift and task decoupling for discriminative one-step person search},
+  author={Zhang, Qixian and Miao, Duoqian and Zhang, Qi and Wang, Changwei and Li, Yanping and Zhang, Hongyun and Zhao, Cairong},
+  journal={Knowledge-Based Systems},
+  pages={112483},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
 ```
 @inproceedings{li2021sequential,
   title={Sequential End-to-end Network for Efficient Person Search},
