@@ -12,7 +12,7 @@
 <img src="doc/title.jpg" width="300" height="100" alt="图片名称"/>
 </div>
 
-This repository hosts the source code of our paper: [Attentive Multi-granularity Perception Network for Person Search](https://github.com/zqx951102/AMPN). 
+This repository hosts the source code of our paper: [Attentive Multi-granularity Perception Network for Person Search](https://doi.org/10.1016/j.ins.2024.121191). 
 
 
 In this paper, we introduce a novel Attentive Multi-granularity Perception (AMP) module embedded in both the detection and ReID branches. This module leverages discriminative relationship features 
