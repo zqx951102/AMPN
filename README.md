@@ -12,7 +12,7 @@
 <img src="doc/title.jpg" width="300" height="100" alt="图片名称"/>
 </div>
 
-This repository hosts the source code of our paper: [Attentive Multi-granularity Perception Network for Person Search](https://github.com/zqx951102/AMPN). 
+This repository hosts the source code of our paper: [Attentive Multi-granularity Perception Network for Person Search](https://doi.org/10.1016/j.ins.2024.121191). 
 
 
 In this paper, we introduce a novel Attentive Multi-granularity Perception (AMP) module embedded in both the detection and ReID branches. This module leverages discriminative relationship features 
@@ -42,6 +42,10 @@ The network structure is simple and suitable as baseline:
 
 ****
 ## :fire: NEWS :fire:
+- [07/2024] **📣Accept**
+  
+- [06/2024] **📣We received comments requiring minor revisions from the Journal of Information Sciences.**
+
 - [04/2024] **📣We received comments requiring major revisions from the Journal of Information Sciences.**
 
 - [10/2023] **📣We submitted our paper to the Journal of Information Sciences.**
@@ -245,14 +249,29 @@ Pull request is welcomed! Before submitting a PR, **DO NOT** forget to run `./de
 ## Citation
 If you find this code useful for your research, please cite our paper
 ```
-@inproceedings{zhang2023AMPN,
-  title={Attentive Multi-granularity Perception Network for Person Search},
-  author={Zhang, Qixian and Miao, Duoqian},
-  booktitle={IEEE Transactions on xxxxxx},
-  volume={xx},
-  number={x},
-  pages={xxx--xxx},
+@article{zhang2024attentive,
+  title={Attentive multi-granularity perception network for person search},
+  author={Zhang, Qixian and Wu, Jun and Miao, Duoqian and Zhao, Cairong and Zhang, Qi},
+  journal={Information Sciences},
+  volume={681},
+  pages={121191},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
+
+```
+@article{zhang2024learning,
+  title={Learning adaptive shift and task decoupling for discriminative one-step person search},
+  author={Zhang, Qixian and Miao, Duoqian and Zhang, Qi and Wang, Changwei and Li, Yanping and Zhang, Hongyun and Zhao, Cairong},
+  journal={Knowledge-Based Systems},
+  volume={304},
+  pages={112483},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
 ```
 @inproceedings{li2021sequential,
   title={Sequential End-to-end Network for Efficient Person Search},
